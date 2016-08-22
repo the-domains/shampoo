@@ -17,9 +17,9 @@ collections:
 typography_spectrum: 0
 color:
   brandStrength: 0.4787771166302264
-  lightness: 0.3971332
-  saturation: 0.1036794
-  rhythmicContrast: 1
+  lightness: 0.1180438
+  saturation: 0.5522766
+  rhythmicContrast: 0.7799326
   brandColors:
     - '#E9008C'
     - '#1FA553'
