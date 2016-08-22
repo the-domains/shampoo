@@ -1,16 +1,28 @@
-typography_spectrum: 0.41273039067164063
+layout_spectrum: 0.7689713
+description: tragédia dançante
+name: Shampoo
+title: SHAMPOO
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0
 color:
   brandStrength: 0.4787771166302264
-  lightness: 0.4272371882107109
-  saturation: 0.103679402731359
-  rhythmicContrast: 0.2554319044575095
+  lightness: 0.3971332
+  saturation: 0.1036794
+  rhythmicContrast: 1
   brandColors:
     - '#E9008C'
     - '#1FA553'
     - '#FFFFFF'
     - '#231F20'
     - '#FDF02D'
-layout_spectrum: 0.516544027486816
-name: Shampoo
-title: SHAMPOO
-description: tragédia dançante
