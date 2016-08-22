@@ -1,4 +1,12 @@
 ---
+datePublished: '2016-08-22T00:08:04.203Z'
+sourcePath: >-
+  _posts/2016-08-22-no-largo-do-boticario-a-fila-se-forma-finalmente-a-porta-s.md
+author: []
+via: {}
+dateModified: '2016-08-22T00:08:03.683Z'
+title: ''
+publisher: {}
 description: >-
   No Largo do Boticário, a fila se forma. Finalmente a porta se abre? Um
   corredor serpenteante e finalmente a porta se abre. O bar. Atmosfera
@@ -8,21 +16,15 @@ description: >-
   e pequenas chaves. A tensão aumenta. O anfitrião esboça um sorriso enigmático
   e nos diz que a experiência é mais completa quando se atravessa sozinho. A
   tensão triplica.
-dateModified: '2016-08-22T00:05:15.391Z'
-datePublished: '2016-08-22T00:05:45.057Z'
-title: ''
-author: []
-publisher: {}
-via: {}
 starred: false
-sourcePath: >-
-  _posts/2016-08-22-no-largo-do-boticario-a-fila-se-forma-finalmente-a-porta-s.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc8efbf0-2f94-4c3f-8459-38812d0789bb.jpg)
+
 No Largo do Boticário, a fila se forma. Finalmente a porta se abre? Um corredor serpenteante e finalmente a porta se abre. O bar. Atmosfera enfumaçada e inebriante, vemos corpos escorados nas paredes, nas quinas, pessoas ensaiando nus e coreografias trágicas. Uma soprano vocaliza na janela. Um anfitrião se apresenta. Hostess enigmáticas nos oferecem injeções de álcool e pequenas chaves. A tensão aumenta. O anfitrião esboça um sorriso enigmático e nos diz que a experiência é mais completa quando se atravessa sozinho. A tensão triplica.
 
 A luz sobe, esquenta, revela, apaga. A partir dali somos livres para explorar os cômodos da bela arquitetura. É permitido tocar em tudo. Será que em tod@s?
