@@ -1,4 +1,3 @@
-layout_spectrum: 0.516544027486816
 typography_spectrum: 0.41273039067164063
 color:
   brandStrength: 0.4787771166302264
@@ -11,4 +10,6 @@ color:
     - '#FFFFFF'
     - '#231F20'
     - '#FDF02D'
+layout_spectrum: 0.516544027486816
 name: Shampoo
+title: SHAMPOO
